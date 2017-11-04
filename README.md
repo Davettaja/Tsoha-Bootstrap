@@ -3,7 +3,7 @@
 Yleisiä linkkejä:
 
 * [Linkki sovellukseeni](http://davforsm.users.cs.helsinki.fi/tietokantasovellus)
-* [Linkki dokumentaatiooni](https://github.com/Davettaja/Tsoha-Bootstrap/blob/master/doc/dokumentaatio.pdf)
+* [Linkki dokumentaatiooni](https://github.com/Davettaja/Tsoha-Bootstrap/blob/master/doc/Dokumentaatio.pdf)
 
 ## Työn aihe
 
